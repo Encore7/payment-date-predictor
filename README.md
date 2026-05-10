@@ -1,6 +1,6 @@
 # Payment Date Predictor
 
-Refactored full-stack project with Dockerized React frontend, Spring Boot backend, and MySQL.
+A Full-stack project with Dockerized React frontend, Spring Boot backend, and MySQL.
 
 ## Project Structure
 
